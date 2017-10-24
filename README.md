@@ -1,2 +1,3 @@
 # TestRepo
-Git handson
+Git handson.
+This repo is for testing  purpose.
